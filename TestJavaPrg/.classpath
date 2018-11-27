@@ -38,5 +38,7 @@
 	<classpathentry kind="lib" path="/opt/selenium/selenium_java-3.141.59/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="/opt/selenium/selenium_java-3.141.59/libs/commons-exec-1.3.jar"/>
 	<classpathentry kind="lib" path="/opt/selenium/selenium_java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/home/inst1/git/TestJavaPrg/TestJavaPrg/target/test-classes"/>
+	<classpathentry kind="lib" path="/opt/jcommander/jcommander.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

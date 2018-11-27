@@ -2,8 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
-  	<classes>
-  		<class name="test_package.vladwebtest_01"/>
-  	</classes>
+  	<packages>
+  		<package name="test_package"></package>
+  	</packages>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
