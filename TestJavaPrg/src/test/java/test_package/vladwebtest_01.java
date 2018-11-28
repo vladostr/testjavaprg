@@ -10,7 +10,7 @@ import org.testng.annotations.AfterTest;
 public class vladwebtest_01 {
 	private WebDriver driver;		
 	@Test				
-	public void testEasy() {	
+	public void testOne() {	
 		System.setProperty("webdriver.gecko.driver","/opt/selenium/bin/geckodriver"); 
 		driver.get("http://rhel73test:6080/vladwebtest-0.0.1-SNAPSHOT/");  
 		String title = driver.getTitle();				 
